@@ -36,7 +36,7 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Pomodoro Timer for Focused Work
+  - title                                 : Pomodoro Timer for Focused Work123
     description                           : Break your tasks into manageable intervals with our intuitive Pomodoro timer. Stay on track with perfectly timed sessions that help you maintain concentration and boost productivity throughout the day.
     fontawesome_icon_name                 : timer
     
