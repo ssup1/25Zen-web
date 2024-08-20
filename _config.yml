@@ -36,45 +36,29 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Pomodoro Timer for Focused Work123
-    description                           : Break your tasks into manageable intervals with our intuitive Pomodoro timer. Stay on track with perfectly timed sessions that help you maintain concentration and boost productivity throughout the day.
-    fontawesome_icon_name                 : timer
+  - title                                 : Pomodoro Timer for Focused Work
+    description                           : Boost your productivity with timed sessions designed to help you stay focused and efficient throughout your day.
+    fontawesome_icon_name                 : fa-regular fa-clock
+
+  - title                                 : Customizable Time Intervals
+    description                           : Tailor your Pomodoro sessions to fit your work style by customizing timer durations and break intervals for maximum efficiency.
+    fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Comprehensive Task Tracker
+    description                           : Keep all your tasks organized and easily accessible, ensuring you can prioritize and manage your workload effectively.
+    fontawesome_icon_name                 : fa-regular fa-list-ul
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Detailed Productivity Statistics
+    description                           : Gain valuable insights into your work patterns with detailed charts that help you track your productivity over time.
+    fontawesome_icon_name                 : fa-regular fa-chart-bar
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Seamless Device Syncing
+    description                           : Enjoy uninterrupted workflow with real-time data syncing across all your Apple devices, from iPhone to Apple Watch.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Exclusive Apple Watch Companion
+    description                           : Stay connected to your productivity goals with quick access to timers and stats directly from your Apple Watch.
+    fontawesome_icon_name                 : fa-brands fa-bluetooth
 
 
 
