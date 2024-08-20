@@ -36,9 +36,9 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Pomodoro Timer for Focused Work
+    description                           : Break your tasks into manageable intervals with our intuitive Pomodoro timer. Stay on track with perfectly timed sessions that help you maintain concentration and boost productivity throughout the day.
+    fontawesome_icon_name                 : timer
     
   - title                                 : iPhone Device Preview
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
