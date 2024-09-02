@@ -37,4 +37,4 @@ These terms and conditions are effective as of 2024-06-12.
 
 ## Contact Us
 
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at focusguru@25zen.com.
+If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at support@25zen.com.
